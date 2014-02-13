@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1392141036 source:c:\users\salguero\documents\c++\listasenlazadas\lista.cpp
+	"Lista.h"
+
+1392056858 c:\users\salguero\documents\c++\listasenlazadas\lista.h
+	<iostream>
+	"Nodo.h"
+
+1391710688 c:\users\salguero\documents\c++\listasenlazadas\nodo.h
+
+1392331337 source:c:\users\salguero\documents\c++\listasenlazadas\main.cpp
+	<iostream>
+	"Lista.h"
+	"ListaDoble.h"
+
+1392054363 source:c:\users\salguero\documents\c++\listasenlazadas\nodo.cpp
+	<iostream>
+	"Nodo.h"
+
+1392315251 source:c:\users\salguero\documents\c++\listasenlazadas\listadoble.cpp
+	"ListaDoble.h"
+	<iostream>
+
+1392313036 c:\users\salguero\documents\c++\listasenlazadas\listadoble.h
+	"NodoDoble.h"
+
+1392142386 c:\users\salguero\documents\c++\listasenlazadas\nododoble.h
+	<iostream>
+
+1392142288 source:c:\users\salguero\documents\c++\listasenlazadas\nododoble.cpp
+	"NodoDoble.h"
+
